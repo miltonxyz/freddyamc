@@ -54,7 +54,7 @@ if (isset($_GET['rankpls'])) {
 <meta name="description" content="Bermain di <?php echo $BRANDS ?> adalah entitas yang memberikan 18 situs  permainan gacor mudah menang yang dinantikan semua orang karena setiap menitnya memberikan kemenangan tanpa henti bagi seluruh pemainnya"/>
 <link rel="shortcut icon" href="https://i.postimg.cc/D07LdStF/f1141eba7d03aa52ffbfbec94eb69088.jpg"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://slot-online.fun/?hoki=<?php echo $BRANDS ?>"/>
+<link rel="amphtml" href="https://amp-kayuhoki77.pages.dev/"/>
 <!-- sp:end-feature:head-start -->
 <!-- sp:feature:csm:head-open-part1 -->
 <script type='text/javascript'>var ue_t0 = ue_t0 || +new Date();</script>
